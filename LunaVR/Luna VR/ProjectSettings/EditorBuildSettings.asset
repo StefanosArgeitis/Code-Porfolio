@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 711258fcec316c0438c90646dc2e06b9
+  - enabled: 1
+    path: Assets/Scenes/Moon.unity
+    guid: 4e0b8908ebc92de499bdebd5114507af
+  - enabled: 1
+    path: Assets/Scenes/Fly.unity
+    guid: 295c80902b8f38b45890b065389d5a3f
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: e26098114425e814c828cb35da03058c,
+      type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: a04d0256bd33f3f41b4c39509a4dca65,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 55ccb6c839901444ebc1bb01b0460a00,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c05bdc75e75cd4b4b9378c23ec3ec5e2,
+      type: 2}
